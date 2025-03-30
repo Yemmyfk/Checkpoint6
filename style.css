@@ -1,0 +1,27 @@
+div#row{
+height: 50px;
+width: 100%;
+background-color: gainsboro;
+justify-content: center;
+}
+
+
+ h1{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  div#span_2{
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+  }
+  
+  @media screen and (min-width:768px) {
+    .row{
+      width: 100%;
+    }
+  }
+  
